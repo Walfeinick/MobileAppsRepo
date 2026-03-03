@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageView" type="id">http://schemas.android.com/apk/res/android</item>
+    <item name="tvNameLabel" type="id">http://schemas.android.com/apk/res/android</item>
+    <item name="label" type="id" />
+    <item name="tvOrgLabel" type="id" />
+    <item name="tvOrg" type="id" />
+    <item name="tvName" type="id" />
+    <item name="btnSave" type="id" />
+</resources>
